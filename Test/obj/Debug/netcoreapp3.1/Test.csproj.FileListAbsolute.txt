@@ -1,0 +1,171 @@
+C:\Users\Illia Oleksii\source\repos\Test\Test\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Illia Oleksii\source\repos\Test\Test\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Illia Oleksii\source\repos\Test\Test\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Illia Oleksii\source\repos\Test\Test\bin\Debug\netcoreapp3.1\Test.exe
+C:\Users\Illia Oleksii\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Test.csprojAssemblyReference.cache
+C:\Users\Illia Oleksii\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+C:\Users\Illia Oleksii\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
+C:\Users\Illia Oleksii\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Test.RazorTargetAssemblyInfo.cache
+C:\Users\Illia Oleksii\source\repos\Test\Test\obj\Debug\netcoreapp3.1\staticwebassets\Test.StaticWebAssets.Manifest.cache
+C:\Users\Illia Oleksii\source\repos\Test\Test\obj\Debug\netcoreapp3.1\staticwebassets\Test.StaticWebAssets.xml
+C:\Users\Illia Oleksii\source\repos\Test\Test\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Illia Oleksii\source\repos\Test\Test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Illia Oleksii\source\repos\Test\Test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Illia Oleksii\source\repos\Test\Test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Illia Oleksii\source\repos\Test\Test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Illia Oleksii\source\repos\Test\Test\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Illia Oleksii\source\repos\Test\Test\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Illia Oleksii\source\repos\Test\Test\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Illia Oleksii\source\repos\Test\Test\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Illia Oleksii\source\repos\Test\Test\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Illia Oleksii\source\repos\Test\Test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Illia Oleksii\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Test.csproj.CopyComplete
+C:\Users\Illia Oleksii\source\repos\Test\Test\bin\Debug\netcoreapp3.1\Test.deps.json
+C:\Users\Illia Oleksii\source\repos\Test\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.json
+C:\Users\Illia Oleksii\source\repos\Test\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.dev.json
+C:\Users\Illia Oleksii\source\repos\Test\Test\bin\Debug\netcoreapp3.1\Test.dll
+C:\Users\Illia Oleksii\source\repos\Test\Test\bin\Debug\netcoreapp3.1\Test.pdb
+C:\Users\Illia Oleksii\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Test.dll
+C:\Users\Illia Oleksii\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Test.pdb
+C:\Users\Illia Oleksii\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Test.genruntimeconfig.cache
+C:\Users\Illia Oleksii\source\repos\Test\Test\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Illia Oleksii\source\repos\Test\Test\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Illia Oleksii\source\repos\Test\Test\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Illia Oleksii\source\repos\Test\Test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Illia Oleksii\source\repos\Test\Test\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Illia Oleksii\source\repos\Test\Test\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Illia Oleksii\source\repos\Test\Test\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Illia Oleksii\source\repos\Test\Test\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Illia Oleksii\source\repos\Test\Test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Illia Oleksii\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Test.csproj.CoreCompileInputs.cache
+C:\Users\Illia Oleksii\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Test.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Illia Oleksii\source\repos\Test\Test\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\bin\Debug\netcoreapp3.1\Test.exe
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\bin\Debug\netcoreapp3.1\Test.deps.json
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.json
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.dev.json
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\bin\Debug\netcoreapp3.1\Test.dll
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\bin\Debug\netcoreapp3.1\Test.pdb
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\obj\Debug\netcoreapp3.1\Test.csprojAssemblyReference.cache
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\obj\Debug\netcoreapp3.1\Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\obj\Debug\netcoreapp3.1\Test.csproj.CoreCompileInputs.cache
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\obj\Debug\netcoreapp3.1\Test.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\obj\Debug\netcoreapp3.1\staticwebassets\Test.StaticWebAssets.Manifest.cache
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\obj\Debug\netcoreapp3.1\staticwebassets\Test.StaticWebAssets.xml
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\obj\Debug\netcoreapp3.1\scopedcss\bundle\Test.styles.css
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\obj\Debug\netcoreapp3.1\Test.RazorTargetAssemblyInfo.cache
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\obj\Debug\netcoreapp3.1\Test.csproj.CopyComplete
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\obj\Debug\netcoreapp3.1\Test.dll
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\obj\Debug\netcoreapp3.1\Test.pdb
+C:\Users\Anton Tomchuk\Downloads\Telegram Desktop\Test\Test\obj\Debug\netcoreapp3.1\Test.genruntimeconfig.cache
+D:\Projects\ReadyTest\Test\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projects\ReadyTest\Test\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projects\ReadyTest\Test\bin\Debug\netcoreapp3.1\Test.exe
+D:\Projects\ReadyTest\Test\bin\Debug\netcoreapp3.1\Test.deps.json
+D:\Projects\ReadyTest\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.json
+D:\Projects\ReadyTest\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.dev.json
+D:\Projects\ReadyTest\Test\bin\Debug\netcoreapp3.1\Test.dll
+D:\Projects\ReadyTest\Test\bin\Debug\netcoreapp3.1\Test.pdb
+D:\Projects\ReadyTest\Test\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Projects\ReadyTest\Test\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Projects\ReadyTest\Test\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects\ReadyTest\Test\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Projects\ReadyTest\Test\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\ReadyTest\Test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Projects\ReadyTest\Test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\ReadyTest\Test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\ReadyTest\Test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\ReadyTest\Test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\ReadyTest\Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projects\ReadyTest\Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\ReadyTest\Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Projects\ReadyTest\Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects\ReadyTest\Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Projects\ReadyTest\Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\ReadyTest\Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\ReadyTest\Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Projects\ReadyTest\Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\ReadyTest\Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Projects\ReadyTest\Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Projects\ReadyTest\Test\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Projects\ReadyTest\Test\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\ReadyTest\Test\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Projects\ReadyTest\Test\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\ReadyTest\Test\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\ReadyTest\Test\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\ReadyTest\Test\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\Projects\ReadyTest\Test\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projects\ReadyTest\Test\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Projects\ReadyTest\Test\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+D:\Projects\ReadyTest\Test\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Projects\ReadyTest\Test\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Projects\ReadyTest\Test\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\ReadyTest\Test\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\ReadyTest\Test\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Projects\ReadyTest\Test\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\ReadyTest\Test\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Projects\ReadyTest\Test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Projects\ReadyTest\Test\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Projects\ReadyTest\Test\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Projects\ReadyTest\Test\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Projects\ReadyTest\Test\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Projects\ReadyTest\Test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Projects\ReadyTest\Test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\ReadyTest\Test\obj\Debug\netcoreapp3.1\Test.csproj.AssemblyReference.cache
+D:\Projects\ReadyTest\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+D:\Projects\ReadyTest\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
+D:\Projects\ReadyTest\Test\obj\Debug\netcoreapp3.1\Test.csproj.CoreCompileInputs.cache
+D:\Projects\ReadyTest\Test\obj\Debug\netcoreapp3.1\Test.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\ReadyTest\Test\obj\Debug\netcoreapp3.1\staticwebassets\Test.StaticWebAssets.Manifest.cache
+D:\Projects\ReadyTest\Test\obj\Debug\netcoreapp3.1\staticwebassets\Test.StaticWebAssets.xml
+D:\Projects\ReadyTest\Test\obj\Debug\netcoreapp3.1\scopedcss\bundle\Test.styles.css
+D:\Projects\ReadyTest\Test\obj\Debug\netcoreapp3.1\Test.RazorTargetAssemblyInfo.cache
+D:\Projects\ReadyTest\Test\obj\Debug\netcoreapp3.1\Test.csproj.CopyComplete
+D:\Projects\ReadyTest\Test\obj\Debug\netcoreapp3.1\Test.dll
+D:\Projects\ReadyTest\Test\obj\Debug\netcoreapp3.1\Test.pdb
+D:\Projects\ReadyTest\Test\obj\Debug\netcoreapp3.1\Test.genruntimeconfig.cache
