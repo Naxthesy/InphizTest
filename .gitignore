@@ -1,0 +1,6 @@
+
+*.v2
+*.v2
+.vs/Test/DesignTimeBuild/.dtbcache.v2
+.vs/Test/v16/.suo
+Test/obj/Debug/netcoreapp3.1/Test.csproj.AssemblyReference.cache
